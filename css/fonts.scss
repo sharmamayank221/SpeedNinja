@@ -1,0 +1,61 @@
+// Circe Font Family
+@font-face {
+  font-family: "Circe Light";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Circe Light"), url("../fonts/Circe/CRC35.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Circe";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Circe"), url("../fonts/Circe/CRC55.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Circe Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Circe Bold"), url("../fonts/Circe/CRC65.woff") format("woff");
+}
+
+// Aileron Font Family
+@font-face {
+  font-family: "Aileron Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Aileron Regular"),
+    url("../fonts/Aileron/Aileron-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Aileron Heavy";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Aileron Heavy"),
+    url("../fonts/Aileron/Aileron-Heavy.woff") format("woff");
+}
+
+// Inter Font Family
+@font-face {
+  font-family: "Inter Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Inter Regular"), url("Inter-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter Medium Italic";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Inter Medium Italic"),
+    url("Inter-MediumItalic.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Inter Semi Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Inter Semi Bold"), url("Inter-SemiBold.woff") format("woff");
+}

@@ -1,0 +1,27 @@
+{
+  "name": "speedninja",
+  "version": "1.0.0",
+  "description": "css for speedninja",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^15.3.0",
+    "sass": "^1.29.0"
+  },
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass css/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharmamayank221/SpeedNinja.git"
+  },
+  "author": "mayank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharmamayank221/SpeedNinja/issues"
+  },
+  "homepage": "https://github.com/sharmamayank221/SpeedNinja#readme"
+}
